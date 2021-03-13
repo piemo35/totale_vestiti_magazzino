@@ -1,0 +1,3 @@
+/Users/pietro/Documents/GITHUB/c/es_vestiti_totale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pietro/Documents/GITHUB/c/es_vestiti_totale/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pietro/Documents/GITHUB/c/es_vestiti_totale/cmake-build-debug/CMakeFiles/es_vestiti_totale.dir
